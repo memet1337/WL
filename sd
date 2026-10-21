@@ -1,0 +1,2474 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="google-site-verification" content="3vQ4yjzlBd0DUlkpgouf6s06SChzWORWmFTMcs00XM">
+<link rel="stylesheet" type="text/css" href="https://www.rina-roleplay.com/forum/Themes/rinatheme/css/animate.css" />
+<link rel="stylesheet" type="text/css" href="https://www.rina-roleplay.com/forum/Themes/rinatheme/css/bootstrap.min.css?rc1" />
+<link rel="stylesheet" type="text/css" href="https://www.rina-roleplay.com/forum/Themes/rinatheme/css/index.css?r499" "" />
+<link rel="stylesheet" type="text/css" href="https://www.rina-roleplay.com/forum/Themes/rinatheme/css/all.css" />
+<link rel="stylesheet" type="text/css" href="https://www.rina-roleplay.com/forum/Themes/rinatheme/js/plugins/alerts/alert.css?v1" />
+<script src="https://kit.fontawesome.com/a8a0137ea0.js" crossorigin="anonymous" type="d4c86bc3970b2522d787ee7f-text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700">
+<link rel="icon" href="https://www.rina-roleplay.com/forum/Themes/rinatheme/images/favicon.png" type="image/x-icon" />
+<link rel="shortcut icon" href="https://www.rina-roleplay.com/forum/Themes/rinatheme/images/favicon.png" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="https://www.rina-roleplay.com/forum/Themes/default/css/webkit.css" />
+<script data-ad-client="ca-pub-8279012001768989" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="d4c86bc3970b2522d787ee7f-text/javascript"></script>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript" src="https://www.rina-roleplay.com/forum/Themes/rinatheme/js/jquery.js"></script>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript" src="https://www.rina-roleplay.com/forum/Themes/rinatheme/js/jquery_ui_custom.js"></script>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript" src="https://www.rina-roleplay.com/forum/Themes/rinatheme/js/plugins/forms/jquery.inputlimiter.min.js"></script>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript" src="https://www.rina-roleplay.com/forum/Themes/rinatheme/js/plugins/forms/jquery.autosize.js"></script>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript" src="https://www.rina-roleplay.com/forum/Themes/rinatheme/js/plugins/forms/jquery.validate.js"></script>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript" src="https://www.rina-roleplay.com/forum/Themes/rinatheme/js/plugins/ui/jquery.collapsible.min.js"></script>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript" src="https://www.rina-roleplay.com/forum/Themes/rinatheme/js/plugins/ui/jquery.jgrowl.min.js"></script>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript" src="https://www.rina-roleplay.com/forum/Themes/rinatheme/js/bootstrap.js"></script>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript" src="https://www.rina-roleplay.com/forum/Themes/rinatheme/js/plugins/ui/leaves.min.js"></script>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript" src="https://www.rina-roleplay.com/forum/Themes/rinatheme/js/plugins/ui/rotate3Di.min.js"></script>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript" src="https://www.rina-roleplay.com/forum/Themes/rinatheme/js/functions/custom.js"></script>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript" src="https://www.rina-roleplay.com/forum/Themes/rinatheme/js/plugins/alerts/alert.js?v1"></script>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript" src="https://www.rina-roleplay.com/forum/Themes/default/scripts/script.js?rc5"></script>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript" src="https://www.rina-roleplay.com/forum/Themes/rinatheme/scripts/theme.js?rc3"></script>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript"><!-- // --><![CDATA[
+		var smf_theme_url = "https://www.rina-roleplay.com/forum/Themes/rinatheme";
+		var smf_default_theme_url = "https://www.rina-roleplay.com/forum/Themes/default";
+		var smf_images_url = "https://www.rina-roleplay.com/forum/Themes/rinatheme/images";
+		var smf_scripturl = "https://www.rina-roleplay.com/forum/index.php";
+		var smf_iso_case_folding = false;
+		var smf_charset = "UTF-8";
+		var ajax_notification_text = "Yükleniyor...";
+		var ajax_notification_cancel_text = "İptal";
+	// ]]></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="Birlik - Rina Roleplay | www.rina-roleplay.com | RN-RP | RPG" />
+<meta name="keywords" content="sa-mp,san,andreas,rina,roleplay,rp,rpg,rina,rp,multi,player,samp,grand,theft,auto,mta,san,andreas,roleplay,rina,r,i,n,a,sa-mp roleplay,rpg,roleplaygame,samp roleplay, roleplay türkiye, roleplay, samp rp, en iyi rp serveri, rp server, gta rpg, rpg mta, mta, multi theft auto, fivem, rage mp, altv" />
+<meta property="og:image" content="https://www.rina-roleplay.com/forum/icons/og.png" />
+<title>Birlik - Rina Roleplay | www.rina-roleplay.com | RN-RP | RPG</title>
+<link rel="help" href="https://www.rina-roleplay.com/forum/index.php?action=help" />
+<link rel="search" href="https://www.rina-roleplay.com/forum/index.php?action=search" />
+<link rel="contents" href="https://www.rina-roleplay.com/forum/index.php" />
+<link rel="alternate" type="application/rss+xml" title="Rina Roleplay - RSS" href="https://www.rina-roleplay.com/forum/index.php?type=rss;action=.xml" />
+<script type="d4c86bc3970b2522d787ee7f-text/javascript" src="https://www.rina-roleplay.com/forum/Themes/default/ncode_imageresizer.js"></script>
+<script language="JavaScript" type="d4c86bc3970b2522d787ee7f-text/javascript"><!-- // -->
+	NcodeImageResizer.MODE = "enlarge";
+	NcodeImageResizer.MAXWIDTH = "1010";
+	NcodeImageResizer.MAXHEIGHT = "0";
+	// ]]></script>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript" src="https://www.rina-roleplay.com/forum/Themes/default/ncode_imageresizer.js"></script>
+<script language="JavaScript" type="d4c86bc3970b2522d787ee7f-text/javascript"><!-- // -->
+	NcodeImageResizer.BBURL = "https://www.rina-roleplay.com/forum/Themes/rinatheme/images";
+	NcodeImageResizer.MODE = "enlarge";
+	NcodeImageResizer.MAXWIDTH = "1010";
+	NcodeImageResizer.MAXHEIGHT = "0";
+	vbphrase = new Array();
+	vbphrase['ncode_imageresizer_warning_small'] = 'Resmin gerçek boyutunu görmek için bu çubuğa tıklayın.';
+	vbphrase['ncode_imageresizer_warning_filesize'] = 'Bu resim yeniden boyutlandırıldı. Resmin gerçek boyutunu görmek için bu çubuğa tıklayın. Resimin orjinal ölçüleri %1$sx%2$s ve boyutu %3$sKB.';
+	vbphrase['ncode_imageresizer_warning_no_filesize'] = 'Bu resim yeniden boyutlandırıldı. Resmin gerçek boyutunu görmek için bu çubuğa tıklayın. Resimin orjinal ölçüleri %1$sx%2$s.';
+	vbphrase['ncode_imageresizer_warning_fullsize'] = 'Resmin küçük boyutunu görmek için bu çubuğa tıklayın.';
+	// ]]></script>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript">
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-98296687-2', 'www.rina-roleplay.com');
+		ga('send', 'pageview');
+	</script>
+<link rel="stylesheet" type="text/css" href="https://www.rina-roleplay.com/forum/Themes/default/css/BBCode-YouTube2.css" />
+<link rel="stylesheet" type="text/css" href="https://www.rina-roleplay.com/forum/Themes/default/css/BBCode-Vimeo.css" />
+</head>
+<body>
+<div onclick="if (!window.__cfRLUnblockHandlers) return false; window.open(`https://www.rockstartr.com/forum/`, `_blank`);" class="rockstartrfixed" data-cf-modified-d4c86bc3970b2522d787ee7f-="">
+</div>
+<div id="main_body">
+<div class="top_navbar">
+<div id="main_menu">
+<ul class="ust_dropmenu" style="text-transform:uppercase; font-weight: bold; font-size: 12px;">
+<ul>
+<li style="display: none;">
+<div style="position: absolute; margin-top: 50%; margin-left: 65%;">
+<span style="font-size: 12px; color: white;"><i class="fas fa-star"></i></span>
+</div>
+<div style="margin-top: 50%;">
+<span style="font-size: 30px; color: white;"><i class="fas fa-moon"></i></span>
+</div>
+</li>
+<li>
+<div style="margin-right: 15px; margin-top: 12%;">
+<a href="https://www.rina-roleplay.com/forum/index.php"><img src="https://www.rina-roleplay.com/forum/Themes/rinatheme/images/logo.gif" width="68"></a>
+</div>
+</li>
+<li id="button_anasayfa">
+<a class="firstlevel" href="https://www.rina-roleplay.com/forum/anasayfa">
+<span class="last firstlevel">Anasayfa</span>
+</a>
+</li>
+<li id="button_home">
+<a class="active firstlevel" href="https://www.rina-roleplay.com/forum/index.php">
+<span class="last firstlevel">Forum</span>
+</a>
+</li>
+<li id="button_menu">
+<a class="firstlevel" href="#">
+<span class="firstlevel">UCP</span>
+</a>
+<ul class="fadeIn animated">
+<li>
+<a href="https://www.rina-roleplay.com/forum/indir">
+<span>İndir</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/rinapp">
+<span>RinApp</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/sikayet/sikayetlerim/1">
+<span>Şikayetler</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/karakter#sifredegistir">
+<span>Karakter Şifre Değiştir</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/market/urunler">
+<span>Market Ürünleri</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/market/bakiyeyukle">
+<span>Bakiye Yükle</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/ekstraslot">
+<span>Ekstra Slot Satın Al</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/index.php?action=profile;area=groupmembership">
+<span>Grup Üyelikleri</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/guvenlik">
+<span>Karakter Güvenliği</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/club/account">
+<span>Hesap Güvenliği</span>
+</a>
+</li>
+</ul>
+</li>
+<li id="button_sehir">
+<a class="firstlevel" href="#">
+<span class="firstlevel">Şehir</span>
+</a>
+<ul class="fadeIn animated">
+<li>
+<a href="https://www.rina-roleplay.com/forum/sirketler">
+<span>Şirketler</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/lojistikler">
+<span>Lojistikler</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/birlikler">
+<span>Birlikler</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/aracpiyasasi">
+<span>Araç Piyasası</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/emlak">
+<span>Emlak</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/havadurumu">
+<span>Meteoroloji Hava Durumu</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/borsa">
+<span>Borsa</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/events">
+<span>Biletli Etkinlikler</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/drugstats">
+<span>Drug Market</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/unluler">
+<span>Şehirdeki Ünlüler</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/paintball">
+<span>Paintball Tops</span>
+</a>
+</li>
+</ul>
+</li>
+<li id="button_servisler">
+<a class="firstlevel" href="#">
+<span class="firstlevel">Servisler</span>
+</a>
+<ul class="fadeIn animated">
+<li>
+<a href="https://www.rina-roleplay.com/forum/nickdegistir">
+<span>Forum İsim Değiştirme</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/serverstatus">
+<span>Altyapı İstatistikleri</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/livemap">
+<span>Livemap / Canlı Harita</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/discord">
+<span>Discord Doğrulama</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/virtualip">
+<span>Sanal Sunucu İzinleri</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/animationlist">
+<span>Animasyon Listesi</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/index.php?action=search">
+<span>Forumda ara</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/tournament/list">
+<span>Turnuvalar</span>
+</a>
+</li>
+</ul>
+</li>
+<li id="button_livefeets">
+<a class="firstlevel" href="https://www.rina-roleplay.com/forum/livefeets?a=last">
+<span class="firstlevel">Feet</span>
+</a>
+<ul class="fadeIn animated">
+<li>
+<a href="https://www.rina-roleplay.com/forum/livefeets?a=last">
+<span>Feet Akışı</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/livefeets?a=tops">
+<span>Bugünün En Çok Beğenilen Feetleri</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/livefeets?a=lastweek">
+<span>Haftanın En Çok Beğenilen Feetleri</span>
+</a>
+</li>
+</ul>
+</li>
+<li id="button_profile">
+<a class="firstlevel" href="https://www.rina-roleplay.com/forum/index.php?action=profile">
+<span class="firstlevel">Profil</span>
+</a>
+<ul class="fadeIn animated">
+<li>
+<a href="https://www.rina-roleplay.com/forum/index.php?action=profile">
+<span>Özet</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/club/account">
+<span>Club</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/index.php?action=profile;area=account">
+<span>Hesap Ayarları</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/index.php?action=profile;area=forumprofile">
+<span>Forum Profili</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/index.php?action=profile;area=theme">
+<span>Görünüm ve Tasarım</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/index.php?action=profile;area=mentions">
+<span>Bahsetmeler</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/index.php?action=profile;area=helpdesk">
+<span class="last">Ticket Profili</span>
+</a>
+</li>
+</ul>
+</li>
+<li id="button_helpdesk">
+<a class="firstlevel" href="https://www.rina-roleplay.com/forum/index.php?action=helpdesk;sa=main">
+<span class="firstlevel">Ticket</span>
+</a>
+<ul class="fadeIn animated">
+<li>
+<a href="https://www.rina-roleplay.com/forum/index.php?action=helpdesk;sa=newticket">
+<span>Yeni Ticket Gönder</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/index.php?action=helpdesk;sa=closedtickets">
+<span class="last">Kapalı Ticketlar</span>
+</a>
+</li>
+</ul>
+</li>
+<li id="button_pm">
+<a class="firstlevel" href="https://www.rina-roleplay.com/forum/index.php?action=pm">
+<span class="firstlevel">İletilerim</span>
+</a>
+<ul class="fadeIn animated">
+<li>
+<a href="https://www.rina-roleplay.com/forum/index.php?action=pm">
+<span>İletilerinizi Okuyun</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/index.php?action=pm;sa=send">
+<span class="last">İleti Gönder</span>
+</a>
+</li>
+</ul>
+</li>
+<li id="button_mlist">
+<a class="firstlevel" href="https://www.rina-roleplay.com/forum/index.php?action=mlist">
+<span class="firstlevel">Üyeler</span>
+</a>
+<ul class="fadeIn animated">
+<li>
+<a href="https://www.rina-roleplay.com/forum/index.php?action=mlist">
+<span>Üye listesini görüntüle</span>
+</a>
+</li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/index.php?action=mlist;sa=search">
+<span class="last">Üyelerde ara</span>
+</a>
+</li>
+</ul>
+</li>
+<li id="button_logout">
+<a class="firstlevel" href="https://www.rina-roleplay.com/forum/index.php?action=logout;ec1d955345ee=0be07dbf0105f9ee6a43f292547a74e9">
+<span class="last firstlevel">Çıkış</span>
+</a>
+</li>
+<li style="float: right;
+    margin: 10px 0;
+    height: auto;
+    position: relative;">
+<span style="color: white;">Charco</span>
+&nbsp<img style="border-radius: 10px;" width="40" height="40" src="https://www.rina-roleplay.com/forum/customavatars/avatar_1_1525994758.png">
+</li>
+</ul>
+</div>
+</div>
+<div class="mainmenuserit">
+<div style="float: left; margin-left: 4%; margin-top: 0.6em;">
+<div style="float: left; margin-left: 5px; margin-right: 10px; margin-top: -0.8px;">
+<ul class="social-icons">
+<li class="discord socialrenk">
+<a href="https://www.rina-roleplay.com/discord" target="_blank">Discord</a>
+</li>
+<li class="facebook socialrenk">
+<a href="https://www.facebook.com/rinaroleplay/" target="_blank">Facebook</a>
+</li>
+</ul>
+<ul class="social-icons">
+<li class="youtube socialrenk">
+<a href="https://www.youtube.com/channel/UCnNvd_LWorIx1gifAYD9iZQ?view_as=subscriber" target="_blank">YouTube</a>
+</li>
+<li class="teamspeak socialrenk">
+<a href="ts3server://51.255.99.28:666" target="_blank">Teamspeak</a>
+</li>
+</ul>
+</div>
+<div style="float: left; width: 460px; margin-top : 1.5%;">
+<span style="font-size: 12px; font-weight: bold;"><i class="fas fa-angle-double-right"></i> <a href="https://www.rina-roleplay.com/forum/karakter/Kenshin_Laa_Avean">Kenshin Laa Avean</a> <span style="color: green;">(Seviye 11)</span> <span style=""></span> <span style="font-weight: bold;">(Bu hafta oyun süresi: 0 saat)</span></span>
+<hr style="margin: 2px; background-color: #fff0; border-top: 2px dashed #8c8b8b;">
+<span style="font-weight: bold;">Bakiye: <span style="color: #28a528">0 <span class="fa-solid fa-turkish-lira-sign"></span> <a href="https://www.rina-roleplay.com/forum/market/bakiyeyukle"> (Yükle)</a></span> </span>
+&nbsp &nbsp<span style="font-weight: bold;">Cüzdan:	<span style="color: #28a528">$7,426</span> </span>
+&nbsp &nbsp<span style="font-weight: bold;">Maaş Hesabı:	<span style="color: #28a528">$6,674</span> </span>
+</div>
+</div>
+<div style="float: right; margin-top: 0.6%; margin-right: 1%; width: auto;">
+<div style="float: right; margin-right: 5px;">
+<div style="display: block; margin-top : 2px; height: 24px; width: 90px; background-color: #00000020; font-weight: bold; font-size: 11px; text-align:center; padding: 5px; ">
+<a href="https://www.rina-roleplay.com/forum/indir"><i class="fa fa-download"></i> İNDİR</a>
+</div>
+<div style="display: block; margin-top : 5px; height: 24px; width: 90px; background-color: #00000020; font-weight: bold; font-size: 11px; text-align:center; padding: 5px; ">
+<a href="https://www.rina-roleplay.com/forum/yetkililer"><i class="fas fa-user-secret"></i> YETKİLİLER</a>
+</div>
+</div>
+<div style="float: right; margin-right: 5px;">
+<div style="display: block; margin-top : 2px; height: 24px; width: 90px; background-color: #00000020; font-weight: bold; font-size: 11px; text-align:center; padding: 5px; ">
+<a href="https://www.rina-roleplay.com/forum/index.php?board=169.0"><i class="fa fa-gavel"></i> KURALLAR</a>
+</div>
+<div style="display: block; margin-top : 5px; height: 24px; width: 90px; background-color: #00000020; font-weight: bold; font-size: 11px; text-align:center; padding: 5px; ">
+<a href="https://www.rina-roleplay.com/forum/helperler"><i class="fa fa-user"></i> HELPERLER</a>
+</div>
+</div>
+<div style="float: right; margin-right: 5px;">
+<div style="display: block; margin-top : 2px; height: 24px; width: 130px; background-color: #00000020; font-weight: bold; font-size: 11px; text-align:center; padding: 5px; ">
+<a href="https://www.rina-roleplay.com/forum/market/bilgi"><i class="fa-solid fa-turkish-lira-sign"></i> MARKET & BAKİYE</a>
+</div>
+<div style="display: block; margin-top : 5px; height: 24px; width: 130px; background-color: #00000020; font-weight: bold; font-size: 11px; text-align:center; padding: 5px; ">
+<a href="https://www.rina-roleplay.com/forum/ozellestir"><i class="fas fa-images"></i> ÖZELLEŞTİRME</a>
+</div>
+</div>
+<div style="float: right; margin-right: 5px;">
+<div style="display: block; margin-top : 2px; height: 24px; width: 130px; background-color: #00000020; font-weight: bold; font-size: 11px; text-align:center; padding: 5px; ">
+<a href="https://www.rina-roleplay.com/forum/sikayet/ekle"><i class="fas fa-balance-scale-left"></i> YENİ ŞİKAYET</a>
+</div>
+<div style="display: block; margin-top : 5px; height: 24px; width: 130px; background-color: #00000020; font-weight: bold; font-size: 11px; text-align:center; padding: 5px; ">
+<a href="https://www.rina-roleplay.com/forum/index.php?action=helpdesk;sa=newticket"><i class="fas fa-life-ring"></i> YENİ TİCKET</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="main_body">
+<div class="wrapper">
+<div id="main_content">
+<div class="navigate_section">
+<ul>
+<li><i class="fa fa-home"></i></li>
+<li>
+<a href="https://www.rina-roleplay.com/forum/index.php"><span> Rina Roleplay</span></a> <i class="fa fa-angle-double-right"></i>
+</li>
+<li class="last">
+<a href="https://www.rina-roleplay.com/forum/index.php?action=p&sayfa=birlik"><span> Birlik</span></a>
+</li>
+</ul>
+</div>
+<div id="circularMenu" class="circular-menu">
+<a class="floating-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; document.getElementById(`circularMenu`).classList.toggle(`active`);" data-cf-modified-d4c86bc3970b2522d787ee7f-="">
+<i class="fa fa-plus" aria-hidden="true"></i>
+</a>
+<menu class="items-wrapper">
+<a data-placement="top" data-toggle="tooltip" onclick="if (!window.__cfRLUnblockHandlers) return false; multikarakterChan(177422)" class="menu-item" data-cf-modified-d4c86bc3970b2522d787ee7f-=""><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="d4c86bc3970b2522d787ee7f-|49"></script><img onerror="this.onerror=null;this.src=``;" src="https://www.rina-roleplay.com/forum/Themes/rinatheme/images/postbiticons/rina-default.png" src="https://www.rina-roleplay.com/forum/customavatars/avatar_68156_1644673993.png"></a>
+</menu>
+</div>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript">
+			function setCookie(name,value,days) {
+					var expires = "";
+					if (days) {
+							var date = new Date();
+							date.setTime(date.getTime() + (days*24*60*60*1000));
+							expires = "; expires=" + date.toUTCString();
+					}
+					document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+			}
+			function getCookie(name) {
+					var nameEQ = name + "=";
+					var ca = document.cookie.split(";");
+					for(var i=0;i < ca.length;i++) {
+							var c = ca[i];
+							while (c.charAt(0)==" ") c = c.substring(1,c.length);
+							if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+					}
+					return null;
+			}
+			function eraseCookie(name) {
+					document.cookie = name +"=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;";
+			}
+
+			function multikarakterChan(karid)
+			{
+				var secilenkarakterid = karid;
+				setCookie("secilenkarakterid", secilenkarakterid, 2147483647);
+				location.reload();
+			};
+
+			$(function() {
+					setTimeout( () => {
+
+						document.body.insertBefore(document.getElementById("multikaraktersecis"), document.body.firstChild)
+
+					}, 100);
+			});
+		</script>
+<style>
+	.gorevekleme
+	{
+		display: flex;  flex-direction: column;;
+
+	}
+
+	.gorevekleme label
+	{
+		width: 100%;
+
+	}
+
+	.gorevekleme textarea, select, input
+	{
+		width: 100%;
+	}
+
+	.goreveklemefield
+	{
+			margin: 4px 0px 4px 0px;
+	}
+
+	.gorevtoolhover > i:hover
+	{
+			color: green;
+	}
+
+	.nav-tabs { border-bottom: 2px solid #DDD; }
+  .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover { border-width: 0; }
+  .nav-tabs > li > a { font-weight: bold; border: none; color: #666; }
+	.nav-tabs > li.active > a, .nav-tabs > li > a:hover { border: none; color: #738bd7 !important; background: transparent; }
+	.nav-tabs > li > a::after { content: ""; background: #738bd7; height: 2px; position: absolute; width: 100%; left: 0px; bottom: -1px; transition: all 250ms ease 0s; transform: scale(0); }
+  .nav-tabs > li.active > a::after, .nav-tabs > li:hover > a::after { transform: scale(1); }
+	.tab-nav > li > a::after { background: #21527d none repeat scroll 0% 0%; color: #fff; }
+	.tab-pane { padding: 0px 0; }
+	.tab-content{padding:10px}
+
+	.card {background: #FFF none repeat scroll 0% 0%; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3); margin-bottom: 10px; }
+
+	.info {
+		padding: 5px;
+		border-bottom: 4px solid gray;
+		height: auto;
+	}
+	.right_infos {
+		margin-top: 4px;
+	}
+	.right_infos ul {
+		padding: 0;
+		list-style-type: none;
+	}
+
+	.right_infos li {
+		float: right;
+		margin-right: 4px;
+		background-color: #a2a2a2;
+		padding: 3px;
+		font-weight: bold;
+		color: black;
+		border-radius : 3px;
+	}
+
+	.varsaresim {
+		width: 100%;
+		height: 200px;
+		background-size: cover;
+
+		border: 1px solid gray;
+	}
+
+	.rank_Basligi {
+		font-size: 18px;
+		font-weight: bold;
+	}
+	.rank_Basligi hr {
+		margin: 0;
+		background-color: #9898983b;
+	}
+
+	.uyecard {
+		overflow: hidden;
+		width: 105px;
+		height: 140px;
+		background-color: #cfcfcf;
+	}
+	.green {
+		background-color: #4caf50 !important;
+	}
+	.yellow {
+
+		background-color: #ffc107 !important;
+	}
+
+	.bannerbirlik {
+		display: block;
+		width: 1050px;
+		height: 150px;
+		background-color: gray;
+		border-radius: 5px;
+		margin-bottom: 5px;
+	}
+</style>
+<div class="card info">
+<div class="bannerbirlik" style="background-image: url(https://www.upload.ee/image/13917888/banner.png);">
+</div>
+<span style="font-size: 25px; font-weight: bold; ">
+Los Santos Sheriff Department
+</span>
+<div class="right_infos" style="float: right;">
+<ul>
+<li class="birliksayfasi_label" style="background-color: green !important;">
+<div data-toggle="tooltip" data-placement="top" title="Onaylı Birlik" style="width: 18px; height: 18px; background-size: contain; background-image: url(https://icons.iconarchive.com/icons/icojam/blueberry-basic/32/check-icon.png)">
+</div>
+</li>
+<li class="birliksayfasi_label">
+<a style="color: white;" href="https://www.rina-roleplay.com/forum/index.php?topic=116435.0"><i class="fas fa-rss-square"></i> Tanıtım</a>
+</li>
+<li class="birliksayfasi_label">
+Charles Glessner
+</li>
+<li class="birliksayfasi_label">
+Özel
+</li>
+<li class="birliksayfasi_label" data-toggle="tooltip" data-placement="top" title="Şöhret Puanı">
+<i class="fab fa-jedi-order"></i>&nbsp0 <small>/ 100</small>
+</li>
+</ul>
+</div>
+</div>
+<div class="card" style="padding: 0px;">
+<ul class="nav nav-tabs" role="tablist">
+<li role="presentation" class="active"><a href="#uyeler" aria-controls="uyeler" role="tab" data-toggle="tab"><i class="fas fa-id-card"></i> Üyeler</a></li>
+<li role="presentation"><a href="#mallar" aria-controls="mallar" role="tab" data-toggle="tab"><i class="fas fa-truck-pickup"></i> Mal Varlığı</a></li>
+<li role="presentation"><a href="#kasakayitlari" aria-controls="kasakayitlari" role="tab" data-toggle="tab"><i class="fas fa-cash-register"></i> Kasa Kayıtları</a></li>
+<li role="presentation"><a href="#kayitlar" aria-controls="kayitlar" role="tab" data-toggle="tab"><i class="fas fa-align-justify"></i> Giriş & Çıkış Kayıtları</a></li>
+<li role="presentation"><a href="#gorevler" aria-controls="gorevler" role="tab" data-toggle="tab"><i class="fas fa-tasks"></i> Görevler</a></li>
+</ul>
+
+<div class="tab-content">
+<div role="tabpanel" class="tab-pane active fadeIn animated" id="uyeler">
+<div style="margin-bottom: 5px; background-color: #80808030; padding: 5px;">
+Bu birlikte <b>58</b> kişi bulunmaktadır.
+</div>
+<div data-rankalani="20">
+<div class="rank_Basligi">Captain
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_21277_1593624624.gif)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>30/03/2022    01:05" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Athena_Christides"><span>Athena Christides</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=21277" style="color: #996600;  font-weight:bold;;"><b>Ducis</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://pbs.twimg.com/profile_images/663250727989563392/nOw7kTSF_400x400.jpg)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>01/11/2021    20:12" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Nathan_Wilkinson"><span>Nathan Wilkinson</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=44396" style="color: #996600;  font-weight:bold;;"><b>Libertas</b></a></span>
+</div>
+</div>
+</li>
+<input type="hidden" id="ranktoplami_20" value="2">
+</ul>
+</div>
+</div><div data-rankcl="20" data-rankalani="20" style="clear: both; display: block; margin-bottom: 20px;"></div>
+<div data-rankalani="19">
+<div class="rank_Basligi">Captain
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_14808_1643624646.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>01/11/2021    23:31" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Tim_Ward"><span>Tim Ward</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=14808" style="color: #085008;;"><b>guardReus</b></a></span>
+</div>
+</div>
+</li>
+<input type="hidden" id="ranktoplami_19" value="1">
+</ul>
+</div>
+</div><div data-rankcl="19" data-rankalani="19" style="clear: both; display: block; margin-bottom: 20px;"></div>
+<div data-rankalani="18">
+<div class="rank_Basligi">Lieutenant
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_32073_1624960874.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>23/03/2022    23:13" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Arnolfo_Cortez"><span>Arnolfo Cortez</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=32073" style="color: #085008;;"><b>YasinT</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_35438_1654522055.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>30/09/2021    21:30" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Gerald_Chandler"><span>Gerald Chandler</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=35438" style="color: #085008;;"><b>The Hellsing</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_35043_1648249371.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>13/02/2022    19:22" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Thomas_Herschel"><span>Thomas Herschel</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=35043" style="color: #085008;;"><b>F1R4T</b></a></span>
+</div>
+</div>
+</li>
+<input type="hidden" id="ranktoplami_18" value="3">
+</ul>
+</div>
+</div><div data-rankcl="18" data-rankalani="18" style="clear: both; display: block; margin-bottom: 20px;"></div>
+<div data-rankalani="17">
+<div class="rank_Basligi">-
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<input type="hidden" id="ranktoplami_17" value="0">
+</ul>
+</div>
+</div><div data-rankcl="17" data-rankalani="17" style="clear: both; display: block; margin-bottom: 20px;"></div>
+<div data-rankalani="16">
+<div class="rank_Basligi">Sergeant II
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_23893_1655640045.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>05/07/2021    19:46" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Barry_Gibson"><span>Barry Gibson</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=23893" style="color: #00ceff;  font-weight:bold;;"><b>TheZoom</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_24985_1655253546.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>07/10/2021    16:44" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Ralph_Papadopoulos"><span>Ralph Papadopoulos</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=24985" style="color: #00ceff;  font-weight:bold;;"><b>garbius</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_37676_1643623983.gif)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>31/05/2021    20:04" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Morgan_McLascher"><span>Morgan McLascher</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=37676" style="color: #085008;;"><b>iBlack</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://cdn.discordapp.com/attachments/835698159061696562/987477345499754527/dasd.webp)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>07/12/2021    21:54" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Heinz_Kornhausel"><span>Heinz Kornhausel</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=48566" style="color: #00ceff;  font-weight:bold;;"><b>SOWEZY</b></a></span>
+</div>
+</div>
+</li>
+<input type="hidden" id="ranktoplami_16" value="4">
+</ul>
+</div>
+</div><div data-rankcl="16" data-rankalani="16" style="clear: both; display: block; margin-bottom: 20px;"></div>
+<div data-rankalani="15">
+<div class="rank_Basligi">Detective III
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<input type="hidden" id="ranktoplami_15" value="0">
+</ul>
+</div>
+</div><div data-rankcl="15" data-rankalani="15" style="clear: both; display: block; margin-bottom: 20px;"></div>
+<div data-rankalani="14">
+<div class="rank_Basligi">Detective II
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<input type="hidden" id="ranktoplami_14" value="0">
+</ul>
+</div>
+</div><div data-rankcl="14" data-rankalani="14" style="clear: both; display: block; margin-bottom: 20px;"></div>
+<div data-rankalani="13">
+<div class="rank_Basligi">Sergeant I
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_28471_1653335782.jpg)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>12/02/2022    23:01" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Henry_Lundrighan"><span>Henry Lundrighan</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=28471"><b>erentheturkishdelight</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/proxy.php?request=http%3A%2F%2Fmedia.giphy.com%2Fmedia%2FhL71GUlrMdAgo%2Fgiphy.gif&hash=26b8ef28c200496f0517b0bfb78a8009184f971b)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>23/03/2022    03:47" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Megan_Torres"><span>Megan Torres</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=50950" style="color: #00ceff;  font-weight:bold;;"><b>RakiBalik</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_53397_1651403763.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>30/05/2021    18:55" data-html="true"><i class="fas fa-clock"></i></div>
+ <div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Reinhard_Pierce"><span>Reinhard Pierce</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=53397" style="color: #d47339;;"><b>yusuftahagun</b></a></span>
+</div>
+</div>
+</li>
+<input type="hidden" id="ranktoplami_13" value="3">
+</ul>
+</div>
+</div><div data-rankcl="13" data-rankalani="13" style="clear: both; display: block; margin-bottom: 20px;"></div>
+<div data-rankalani="12">
+<div class="rank_Basligi">Deputy Sheriff (+II)
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://media.discordapp.net/attachments/475340318384979969/956313627147780116/6B2A2373-1F2D-4D18-BBA3-EDC36AEEF68B.jpg?width=483&amp;height=471)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>22/08/2021    19:09" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Naum_Balabanov"><span>Naum Balabanov</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=12801"><b>Manstein</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://cutewallpaper.org/25/animated-gif-for-laptop-wallpaper/animated-gif39s-for-use-in-wallpapers.gif)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>24/02/2022    18:30" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Mitchell_Matthews"><span>Mitchell Matthews</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=25269" style="color: #085008;;"><b>ByTaNeR</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_42649_1653660894.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>09/01/2022    18:19" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Robert_McBride"><span>Robert McBride</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=42649"><b>euria</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_71599_1654867716.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>12/02/2022    23:09" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Peter_Broyles"><span>Peter Broyles</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=71599" style="color: #00ceff;  font-weight:bold;;"><b>Rinnegan</b></a></span>
+</div>
+</div>
+</li>
+<input type="hidden" id="ranktoplami_12" value="4">
+</ul>
+</div>
+</div><div data-rankcl="12" data-rankalani="12" style="clear: both; display: block; margin-bottom: 20px;"></div>
+<div data-rankalani="11">
+<div class="rank_Basligi">Detective I
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<input type="hidden" id="ranktoplami_11" value="0">
+</ul>
+</div>
+</div><div data-rankcl="11" data-rankalani="11" style="clear: both; display: block; margin-bottom: 20px;"></div>
+<div data-rankalani="10">
+<div class="rank_Basligi">Deputy Sheriff (+I)
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://media.discordapp.net/attachments/852636728082694186/973694368458354718/IMG-20220511-WA0000.jpg)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>11/08/2021    19:31" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Owen_McField"><span>Owen McField</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=2206" style="color: #00ceff;  font-weight:bold;;"><b>wenoxy</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_3334_1650467131.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>07/05/2022    20:11" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Marland_Haugwitz"><span>Marland Haugwitz</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=3334" style="color: #085008;;"><b>krayy</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_20121_1650739155.gif)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>23/03/2022    00:59" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Zachray_Hanson"><span>Zachray Hanson</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=20121" style="color: #085008;;"><b>Phane</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_25024_1645923615.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>02/03/2022    23:46" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Raphael_Hardy"><span>Raphael Hardy</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=25024"><b>#EnsarAydin</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_31309_1651926510.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>05/04/2022    19:20" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Chloe_Roland"><span>Chloe Roland</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=31309" style="color: #008000; font-weight:bold;;"><b>sezargasm</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_42826_1653845960.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>09/05/2022    21:52" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Rodney_Covington"><span>Rodney Covington</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=42826" style="color: #085008;;"><b>baueer</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_45734_1640463326.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>07/05/2022    20:10" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Ralph_Burnstein"><span>Ralph Burnstein</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=45734" style="color: #536161; font-weight:bold;;"><b>hai the great</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://images-ext-1.discordapp.net/external/rdbp9gjqEgLEI4Ec7Zc65iMpqQ_BXzl7jAi3YjnZx4w/https/media.discordapp.net/attachments/818187474546851870/827854874468286524/a_e469a2c55d0a060b2b1e35f6c5994ef6.gif?width=406&amp;height=406)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>23/03/2022    07:59" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Ethan_Macias"><span>Ethan Macias</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=47263" style="color: #085008;;"><b>RakiRoka</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://c.tenor.com/UiTn79ObH6sAAAAS/laz-ziya.gif)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>10/05/2022    21:30" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Aren_Dias"><span>Aren Dias</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=73749" style="color: #085008;;"><b>Arn</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_86405_1645132638.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>07/05/2022    20:26" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Darrell_Vaughn"><span>Darrell Vaughn</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=86405" style="color: #085008;;"><b>pottus420</b></a></span>
+</div>
+</div>
+</li>
+<input type="hidden" id="ranktoplami_10" value="10">
+</ul>
+</div>
+</div><div data-rankcl="10" data-rankalani="10" style="clear: both; display: block; margin-bottom: 20px;"></div>
+<div data-rankalani="9">
+<div class="rank_Basligi">-
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<input type="hidden" id="ranktoplami_9" value="0">
+ </ul>
+</div>
+</div><div data-rankcl="9" data-rankalani="9" style="clear: both; display: block; margin-bottom: 20px;"></div>
+<div data-rankalani="8">
+<div class="rank_Basligi">-
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<input type="hidden" id="ranktoplami_8" value="0">
+</ul>
+</div>
+</div><div data-rankcl="8" data-rankalani="8" style="clear: both; display: block; margin-bottom: 20px;"></div>
+<div data-rankalani="7">
+<div class="rank_Basligi">-
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<input type="hidden" id="ranktoplami_7" value="0">
+</ul>
+</div>
+</div><div data-rankcl="7" data-rankalani="7" style="clear: both; display: block; margin-bottom: 20px;"></div>
+<div data-rankalani="6">
+<div class="rank_Basligi">-
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<input type="hidden" id="ranktoplami_6" value="0">
+</ul>
+</div>
+</div><div data-rankcl="6" data-rankalani="6" style="clear: both; display: block; margin-bottom: 20px;"></div>
+<div data-rankalani="5">
+<div class="rank_Basligi">-
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<input type="hidden" id="ranktoplami_5" value="0">
+</ul>
+</div>
+</div><div data-rankcl="5" data-rankalani="5" style="clear: both; display: block; margin-bottom: 20px;"></div>
+<div data-rankalani="4">
+<div class="rank_Basligi">Deputy Sheriff
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://i.ibb.co/X2Ht0rs/aresavatar.gif)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>06/03/2022    21:46" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Evelyn_Schnitzer"><span>Evelyn Schnitzer</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=16298" style="color: #cc5100;  font-weight:bold;;"><b>uAres</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_17757_1641138707.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>13/02/2022    19:35" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Hector_Pride"><span>Hector Pride</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=17757" style="color: #085008;;"><b>@Umutt</b></a></span>
+</div>
+</div>
+</li>
+
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://c.tenor.com/nHVJIhw4aIMAAAAd/thor-ragnarok.gif)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>04/02/2022    19:10" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Axel_Caesar"><span>Axel Caesar</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=28201" style="color: #00ceff;  font-weight:bold;;"><b>FearWindds</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://64.media.tumblr.com/0345e4ae87341080d41c9ace17ceabec/0c782fa14dd917a5-5b/s400x600/f79f23f79d3cc380a9c6c917d7d0b540133382b7.gifv)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>23/03/2022    02:21" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Javier_Galindo"><span>Javier Galindo</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=33843" style="color: #085008;;"><b>Lopez</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_38070_1654383698.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>04/02/2022    19:05" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Margaret_Shiftwell"><span>Margaret Shiftwell</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=38070" style="color: #00ceff;  font-weight:bold;;"><b>furcane</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://cdn.discordapp.com/attachments/852601348753981470/977284823980847185/e5bdd1363787bf4d3cdd16e68428558f.JPG)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>07/05/2022    20:26" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Lucile_Rossignol"><span>Lucile Rossignol</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=41952" style="color: #6928d5; font-weight:bold;;"><b>N0SY</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_42596_1655677942.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>09/04/2022    20:54" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Gareth_Jensen"><span>Gareth Jensen</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=42596" style="color: #085008;;"><b>ctKILLER</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://cdn.discordapp.com/attachments/459019706486095872/956579534906470431/75_copy.jpg)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>12/05/2022    10:10" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Zofia_Galuszka"><span>Zofia Galuszka</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=43600" style="color: #cc5100;  font-weight:bold;;"><b>LilPeep</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://cdn.discordapp.com/attachments/596067361371455506/787667151623815218/images.jpg)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>08/05/2022    23:49" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Lloyd_Garmadon"><span>Lloyd Garmadon</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=45504" style="color: #085008;;"><b>Brandcas</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_49850_1650205322.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>17/05/2022    21:04" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Amelia_Dainty"><span>Amelia Dainty</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=49850" style="color: #085008;;"><b>Young Crew</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+ <div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://i.pinimg.com/originals/97/3a/d9/973ad91d817fb78973aa74c6e26a394c.jpg)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>09/04/2022    20:54" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Lexa_Meadows"><span>Lexa Meadows</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=57790" style="color: #08ae5e; font-weight:bold;;"><b>beckenbauer</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_45959_1613375703.gif)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>07/05/2022    20:13" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Megan_Michel"><span>Megan Michel</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=45959" style="color: #00ceff;  font-weight:bold;;"><b>SebastianStsZ</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_68303_1650648054.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>07/05/2022    20:10" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Enzo_Fernandez"><span>Enzo Fernandez</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=68303" style="color: #085008;;"><b>Dizzzy</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_8_1626276771.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>23/03/2022    19:48" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Meter_Ertoshi"><span>Meter Ertoshi</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=75351" style="color: #085008;;"><b>Herª</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://media.discordapp.net/attachments/631918688773079078/934857694504976464/8gif5.gif)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>10/04/2022    16:34" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Matthias_Regnard"><span>Matthias Regnard</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=86528" style="color: #085008;;"><b>LeoPars</b></a></span>
+</div>
+</div>
+</li>
+<input type="hidden" id="ranktoplami_4" value="15">
+</ul>
+</div>
+</div><div data-rankcl="4" data-rankalani="4" style="clear: both; display: block; margin-bottom: 20px;"></div>
+<div data-rankalani="3">
+<div class="rank_Basligi">Deputy Sheriff Trainee
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_5790_1653141174.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>14/06/2022    19:10" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Richard_Colin"><span>Richard Colin</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=5790" style="color: #085008;;"><b>ACT morbro</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_9767_1653906321.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>14/06/2022    19:09" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Lonnie_Harrington"><span>Lonnie Harrington</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=9767" style="color: #085008;;"><b>Lurker</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(http://www.rina-roleplay.com/forum/customavatars/avatar_1_1525994758.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>14/06/2022    19:09" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Wendell_Buckner"><span>Wendell Buckner</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=26202" style="color: #085008;;"><b>emiran53</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_35253_1655745682.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>14/06/2022    19:10" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Oystein_Broddesson"><span>Oystein Broddesson</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=35253" style="color: #085008;;"><b>rastakafasi</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_42248_1654020325.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>14/06/2022    19:10" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Rui_Lunette"><span>Rui Lunette</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=42248" style="color: #085008;;"><b>swearzie</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://cdn.discordapp.com/attachments/950701314701139968/986688939471536208/unknown.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>14/06/2022    19:10" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Nakajima_Natsuko"><span>Nakajima Natsuko</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=48611" style="color: #085008;;"><b>moi</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_53980_1655640461.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>14/06/2022    19:10" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Jonah_Hensley"><span>Jonah Hensley</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=53980" style="color: #085008;;"><b>pain is taken</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_69118_1655274134.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>14/06/2022    19:09" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Chris_Brewster"><span>Chris Brewster</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=69118" style="color: #085008;;"><b>aka[G]reen</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_93263_1654020823.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>14/06/2022    21:12" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Devon_Riley"><span>Devon Riley</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=93263" style="color: #085008;;"><b>bluesclues</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://www.rina-roleplay.com/forum/customavatars/avatar_71240_1647946814.png)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>14/06/2022    19:09" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Almira_Reither"><span>Almira Reither</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=71240" style="color: #085008;;"><b>luciann</b></a></span>
+</div>
+</div>
+</li>
+<li style="float: left; margin-right: 5px; margin-top: 5px;">
+<div class="uyecard">
+<div style="width: 105px; height: 105px; background-size: contain; background-image: url(https://i.gifer.com/JRMg.gif)"></div>
+<div style="position: absolute; margin-left: 87px; margin-top: -18px; color: white;" data-toggle="tooltip" data-placement="top" title="Katılma:<br>14/06/2022    19:09" data-html="true"><i class="fas fa-clock"></i></div>
+<div class="birlikdark" style="text-align: center; padding: 4px; font-size: 10px;">
+<a href="https://www.rina-roleplay.com/forum/karakter/Gwen_Haven"><span>Gwen Haven</span></a><br>
+<span><a href="https://www.rina-roleplay.com/forum/index.php?action=profile;u=91471" style="color: #085008;;"><b>M3rlin</b></a></span>
+</div>
+</div>
+</li>
+<input type="hidden" id="ranktoplami_3" value="11">
+</ul>
+</div>
+</div><div data-rankcl="3" data-rankalani="3" style="clear: both; display: block; margin-bottom: 20px;"></div>
+<div data-rankalani="2">
+ <div class="rank_Basligi">K9
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<input type="hidden" id="ranktoplami_2" value="0">
+</ul>
+</div>
+</div><div data-rankcl="2" data-rankalani="2" style="clear: both; display: block; margin-bottom: 20px;"></div>
+<div data-rankalani="1">
+<div class="rank_Basligi">-
+<hr>
+</div>
+<div style="width: auto; height: auto;">
+<ul style="margin-top: 5px;list-style-type: none; padding: 0;">
+<input type="hidden" id="ranktoplami_1" value="0">
+</ul>
+</div>
+</div><div data-rankcl="1" data-rankalani="1" style="clear: both; display: block; margin-bottom: 20px;"></div>
+</div>
+<div role="tabpanel" class="tab-pane fadeIn animated" id="mallar">
+<table class="table table-striped" style="margin-bottom: 0px !important;">
+<thead>
+<tr>
+<th scope="col">Araç ID</th>
+<th scope="col">Araç Modeli</th>
+<th scope="col">Araç Plakası</th>
+<th scope="col">Kilometre</th>
+<th scope="col">Yakıt <i class="fas fa-gas-pump"></i></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>446</td>
+<td>Premier</td>
+<td>LS R8Q8O 61</td>
+<td>279.51 km</td>
+<td>100.0<small>%</small></td>
+</tr>
+<tr>
+<td>445</td>
+<td>Towtruck</td>
+<td>LS Z5R6L 86</td>
+<td>506.55 km</td>
+<td>88.8<small>%</small></td>
+</tr>
+<tr>
+<td>444</td>
+<td>Sultan</td>
+<td>LS D3V3K 46</td>
+<td>1341.42 km</td>
+<td>99.9<small>%</small></td>
+</tr>
+<tr>
+<td>437</td>
+<td>Sanchez</td>
+<td>LS W6W2S 97</td>
+<td>137.67 km</td>
+<td>100.0<small>%</small></td>
+</tr>
+<tr>
+<td>436</td>
+<td>Sanchez</td>
+<td>LS J7R5F 29</td>
+<td>308.61 km</td>
+<td>100.0<small>%</small></td>
+</tr>
+<tr>
+<td>435</td>
+<td>Sanchez</td>
+<td>LS R3Q2X 82</td>
+<td>211.73 km</td>
+<td>100.0<small>%</small></td>
+</tr>
+<tr>
+<td>414</td>
+<td>Sultan</td>
+<td>LS N5P6L 86</td>
+<td>2084.44 km</td>
+<td>100.0<small>%</small></td>
+</tr>
+<tr>
+<td>401</td>
+<td>Sultan</td>
+<td>LS C5K4G 22</td>
+<td>2149.29 km</td>
+<td>68.3<small>%</small></td>
+</tr>
+<tr>
+<td>398</td>
+<td>Premier</td>
+<td>LS L5D6Z 86</td>
+<td>1121.40 km</td>
+<td>100.0<small>%</small></td>
+</tr>
+<tr>
+<td>389</td>
+<td>Bullet</td>
+<td>LS T3U2P 70</td>
+<td>3914.65 km</td>
+<td>99.8<small>%</small></td>
+</tr>
+<tr>
+<td>327</td>
+<td>Buffalo</td>
+<td>LS W6X6P 83</td>
+<td>2739.32 km</td>
+<td>100.0<small>%</small></td>
+</tr>
+<tr>
+<td>314</td>
+<td>Raindance</td>
+<td>LS V3T1Q 24</td>
+<td>3.63 km</td>
+<td>92.5<small>%</small></td>
+</tr>
+<tr>
+<td>312</td>
+<td>Cop Car Lv</td>
+<td>LS A4G5Q 85</td>
+<td>4554.63 km</td>
+<td>74.9<small>%</small></td>
+</tr>
+<tr>
+<td>309</td>
+<td>Cop Car Lv</td>
+<td>LS D7F5P 35</td>
+<td>2826.74 km</td>
+<td>66.0<small>%</small></td>
+</tr>
+<tr>
+<td>310</td>
+<td>Cop Car Lv</td>
+<td>LS C3W7I 51</td>
+ <td>13471.34 km</td>
+<td>8.8<small>%</small></td>
+</tr>
+<tr>
+<td>307</td>
+<td>Cop Car Lv</td>
+<td>LS S7G3S 46</td>
+<td>1378.00 km</td>
+<td>85.9<small>%</small></td>
+</tr>
+<tr>
+<td>308</td>
+<td>Cop Car Lv</td>
+<td>LS L6R6P 74</td>
+<td>7109.73 km</td>
+<td>39.6<small>%</small></td>
+</tr>
+<tr>
+<td>283</td>
+<td>Huntley</td>
+<td>LS O8R2J 29</td>
+<td>1968.13 km</td>
+<td>84.2<small>%</small></td>
+</tr>
+<tr>
+<td>282</td>
+<td>Sultan</td>
+<td>LS S3C8C 84</td>
+<td>5125.96 km</td>
+<td>99.8<small>%</small></td>
+</tr>
+<tr>
+<td>281</td>
+<td>Sultan</td>
+<td>LS W1T2D 62</td>
+<td>4941.32 km</td>
+<td>87.7<small>%</small></td>
+</tr>
+<tr>
+<td>280</td>
+<td>Sultan</td>
+<td>LS X2D1K 13</td>
+<td>10150.91 km</td>
+<td>100.0<small>%</small></td>
+</tr>
+<tr>
+<td>278</td>
+<td>Police Maverick</td>
+<td>LS K7H7G 63</td>
+<td>5700.04 km</td>
+<td>78.6<small>%</small></td>
+</tr>
+<tr>
+<td>277</td>
+<td>Cop Car Lv</td>
+<td>LS J2D8C 84</td>
+<td>9233.71 km</td>
+<td>86.4<small>%</small></td>
+</tr>
+<tr>
+<td>276</td>
+<td>Cop Car Lv</td>
+<td>LS J1A4A 97</td>
+<td>8544.55 km</td>
+<td>26.9<small>%</small></td>
+</tr>
+<tr>
+<td>275</td>
+<td>Cop Car Lv</td>
+<td>LS C5T2R 96</td>
+<td>3022.58 km</td>
+<td>55.0<small>%</small></td>
+</tr>
+<tr>
+<td>274</td>
+<td>Cop Car Lv</td>
+<td>LS L6G6B 15</td>
+<td>16571.33 km</td>
+<td>100.0<small>%</small></td>
+</tr>
+<tr>
+<td>273</td>
+<td>Patriot</td>
+<td>LS W4Y7V 80</td>
+<td>1906.58 km</td>
+<td>100.0<small>%</small></td>
+</tr>
+<tr>
+<td>266</td>
+<td>Towtruck</td>
+<td>LS U1N5E 96</td>
+<td>2268.47 km</td>
+<td>94.1<small>%</small></td>
+</tr>
+<tr>
+<td>261</td>
+<td>Infernus</td>
+<td>LS O5V1Z 15</td>
+<td>5163.68 km</td>
+<td>100.0<small>%</small></td>
+</tr>
+<tr>
+<td>242</td>
+<td>Fbi Truck</td>
+<td>LS I5E7Q 79</td>
+<td>602.77 km</td>
+<td>73.9<small>%</small></td>
+</tr>
+<tr>
+<td>241</td>
+<td>Fbi Truck</td>
+<td>LS H3G2W 75</td>
+<td>819.15 km</td>
+<td>100.0<small>%</small></td>
+</tr>
+<tr>
+<td>240</td>
+<td>Fbi Rancher</td>
+<td>LS P4G5O 19</td>
+<td>2143.48 km</td>
+<td>2.0<small>%</small></td>
+</tr>
+<tr>
+<td>237</td>
+<td>Cheetah</td>
+<td>LS D5K2C 96</td>
+<td>12040.32 km</td>
+<td>90.3<small>%</small></td>
+</tr>
+<tr>
+<td>236</td>
+<td>Cop Car Lv</td>
+<td>LS A4D5X 36</td>
+<td>28718.73 km</td>
+<td>86.8<small>%</small></td>
+</tr>
+<tr>
+<td>235</td>
+<td>Cop Car Lv</td>
+<td>LS U5U5N 40</td>
+<td>37306.57 km</td>
+<td>26.6<small>%</small></td>
+</tr>
+<tr>
+<td>224</td>
+<td>Ranger</td>
+<td>LS L3N2E 31</td>
+<td>7017.61 km</td>
+<td>48.3<small>%</small></td>
+</tr>
+<tr>
+<td>223</td>
+<td>Ranger</td>
+<td>LS Z7Q8L 47</td>
+<td>3964.19 km</td>
+<td>70.6<small>%</small></td>
+</tr>
+<tr>
+<td>222</td>
+<td>Cop Car Lv</td>
+<td>LS S5N4T 89</td>
+<td>25316.85 km</td>
+<td>64.4<small>%</small></td>
+</tr>
+<tr>
+<td>221</td>
+<td>Cop Car Lv</td>
+<td>LS N6J2Y 77</td>
+<td>16677.11 km</td>
+<td>71.5<small>%</small></td>
+</tr>
+<tr>
+<td>220</td>
+<td>Cop Car Lv</td>
+<td>LS L6T7N 83</td>
+<td>35166.87 km</td>
+<td>56.0<small>%</small></td>
+</tr>
+<tr>
+<td>219</td>
+<td>Cop Car Lv</td>
+<td>LS Z3E8I 52</td>
+<td>30694.79 km</td>
+<td>31.0<small>%</small></td>
+</tr>
+<tr>
+<td>218</td>
+<td>Cop Car Lv</td>
+<td>LS O5S6Q 28</td>
+<td>24371.55 km</td>
+<td>72.3<small>%</small></td>
+</tr>
+<tr>
+<td>217</td>
+<td>Cop Car Lv</td>
+<td>LS M5Q7O 53</td>
+<td>15439.67 km</td>
+<td>95.7<small>%</small></td>
+</tr>
+<tr>
+<td>93</td>
+<td>Fbi Truck</td>
+<td>LS O5D4P 73</td>
+<td>1474.15 km</td>
+<td>90.1<small>%</small></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Cop Car Ls</td>
+<td>LS Q8B2T 94</td>
+<td>27264.19 km</td>
+<td>44.9<small>%</small></td>
+</tr>
+</tbody>
+</table>
+<div style="background-color: #80808030; padding: 5px;">
+Birlik kasasında <b>$3,256,067</b> miktarında para bulunmaktadır.
+</div>
+</div>
+<div role="tab4" class="tab-pane fadeIn animated" id="kasakayitlari">
+<table class="table table-striped" style="margin-bottom: 0px !important;">
+<thead>
+<tr>
+<th scope="col">Tarih</th>
+<th scope="col">İşlem</th>
+<th scope="col">Miktar</th>
+<th scope="col">Karakter</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<b>17/06/2022</b> 22:54
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$15,000</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Marland_Haugwitz"><span>Marland Haugwitz</span></a></td>
+</tr>
+<tr>
+<td>
+<b>15/06/2022</b> 23:21
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$2</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Almira_Reither"><span>Almira Reither</span></a></td>
+</tr>
+<tr>
+<td>
+<b>15/06/2022</b> 02:28
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$15,000</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Heinz_Kornhausel"><span>Heinz Kornhausel</span></a></td>
+</tr>
+<tr>
+<td>
+<b>10/06/2022</b> 13:13
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$15,000</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Elizabeth_Nelson"><span>Elizabeth Nelson</span></a></td>
+</tr>
+<tr>
+<td>
+<b>04/06/2022</b> 23:15
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$15,000</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Peter_Broyles"><span>Peter Broyles</span></a></td>
+</tr>
+ <tr>
+<td>
+<b>03/06/2022</b> 17:25
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$15,000</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Naum_Balabanov"><span>Naum Balabanov</span></a></td>
+</tr>
+<tr>
+<td>
+<b>30/05/2022</b> 23:58
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$15,000</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Rosalinda_Fonseca"><span>Rosalinda Fonseca</span></a></td>
+</tr>
+<tr>
+<td>
+<b>30/05/2022</b> 00:44
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$15,000</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Arthur_Rawlins"><span>Arthur Rawlins</span></a></td>
+</tr>
+<tr>
+<td>
+<b>23/05/2022</b> 23:38
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$15,000</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Steven_Blakes"><span>Steven Blakes</span></a></td>
+</tr>
+<tr>
+<td>
+<b>23/05/2022</b> 18:00
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$15,000</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Lodia_Wittgenstein"><span>Lodia Wittgenstein</span></a></td>
+</tr>
+<tr>
+<td>
+<b>22/05/2022</b> 21:33
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$15,000</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Aren_Dias"><span>Aren Dias</span></a></td>
+</tr>
+<tr>
+<td>
+<b>21/05/2022</b> 17:45
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$15,000</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Enzo_Fernandez"><span>Enzo Fernandez</span></a></td>
+</tr>
+<tr>
+<td>
+<b>19/05/2022</b> 01:35
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$15,000</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Evelina_Britney"><span>Evelina Britney</span></a></td>
+</tr>
+<tr>
+<td>
+<b>17/05/2022</b> 22:11
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$31</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Rodney_Covington"><span>Rodney Covington</span></a></td>
+</tr>
+<tr>
+<td>
+<b>17/05/2022</b> 22:11
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$750</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Ralph_Burnstein"><span>Ralph Burnstein</span></a></td>
+</tr>
+<tr>
+<td>
+<b>12/05/2022</b> 19:17
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$15,000</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Karolina_Stankovic"><span>Karolina Stankovic</span></a></td>
+</tr>
+<tr>
+<td>
+<b>07/05/2022</b> 22:04
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$15,000</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Aaron_Havenstein"><span>Aaron Havenstein</span></a></td>
+</tr>
+<tr>
+<td>
+<b>07/05/2022</b> 20:45
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$15,000</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Freya_Leinghberger"><span>Freya Leinghberger</span></a></td>
+</tr>
+<tr>
+<td>
+<b>04/05/2022</b> 11:39
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$15,000</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Richard_Traver"><span>Richard Traver</span></a></td>
+</tr>
+<tr>
+<td>
+<b>29/04/2022</b> 02:03
+</td>
+<td>
+<span style='font-weight: bold; color: green;'>Para Yatırma</span>
+</td>
+<td>$15,000</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Rogahn_Barghuter"><span>Rogahn Barghuter</span></a></td>
+</tr>
+</tbody>
+</table>
+<div style="background-color: #80808030; padding: 5px;">
+Son <b>20</b> kayıt listelenir.
+</div>
+</div>
+<div role="tab4" class="tab-pane fadeIn animated" id="kayitlar">
+<table class="table table-striped" style="margin-bottom: 0px !important;">
+<thead>
+<tr>
+<th scope="col">Tarih</th>
+<th scope="col">Tür</th>
+<th scope="col">Davet Eden / Atan</th>
+<th scope="col">Kişi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<b>17/06/2022</b> 23:36
+</td>
+<td>
+<span style='font-weight: bold;  color: red;'>Atılma</span>
+</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Ljupco_Belicanec">Ljupco Belicanec</a></td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Melissa_Fidler"><span>Melissa Fidler</span></a></td>
+</tr>
+<tr>
+<td>
+<b>17/06/2022</b> 20:27
+</td>
+<td>
+<span style='font-weight: bold; color: orange;'>Ayrılma</span>
+</td>
+<td></td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Matilda_Hawley"><span>Matilda Hawley</span></a></td>
+</tr>
+<tr>
+<td>
+<b>15/06/2022</b> 23:04
+</td>
+<td>
+<span style='font-weight: bold;  color: red;'>Atılma</span>
+</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Nathan_Wilkinson">Nathan Wilkinson</a></td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Lucas_Henderson"><span>Lucas Henderson</span></a></td>
+</tr>
+<tr>
+<td>
+<b>15/06/2022</b> 22:57
+</td>
+<td>
+<span style='font-weight: bold;  color: red;'>Atılma</span>
+</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Nathan_Wilkinson">Nathan Wilkinson</a></td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Marco_Martin"><span>Marco Martin</span></a></td>
+</tr>
+<tr>
+<td>
+<b>15/06/2022</b> 22:51
+</td>
+<td>
+<span style='font-weight: bold;  color: red;'>Atılma</span>
+</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Nathan_Wilkinson">Nathan Wilkinson</a></td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Hank_Walter_Thompson"><span>Hank Walter Thompson</span></a></td>
+</tr>
+<tr>
+<td>
+<b>15/06/2022</b> 02:48
+</td>
+<td>
+<span style='font-weight: bold;  color: red;'>Atılma</span>
+</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Nathan_Wilkinson">Nathan Wilkinson</a></td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/LeShawn_MacDonald"><span>LeShawn MacDonald</span></a></td>
+</tr>
+<tr>
+<td>
+<b>14/06/2022</b> 23:08
+</td>
+<td>
+<span style='font-weight: bold;  color: red;'>Atılma</span>
+</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Tim_Ward">Tim Ward</a></td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Miles_Criffen"><span>Miles Criffen</span></a></td>
+</tr>
+<tr>
+<td>
+<b>14/06/2022</b> 19:11
+</td>
+<td>
+<span style='font-weight: bold; '>Katılma</span>
+</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Barry_Gibson">Barry Gibson</a></td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/LeShawn_MacDonald"><span>LeShawn MacDonald</span></a></td>
+</tr>
+<tr>
+<td>
+<b>14/06/2022</b> 19:11
+</td>
+<td>
+<span style='font-weight: bold; '>Katılma</span>
+</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Barry_Gibson">Barry Gibson</a></td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Miles_Criffen"><span>Miles Criffen</span></a></td>
+</tr>
+<tr>
+<td>
+<b>14/06/2022</b> 19:10
+</td>
+<td>
+<span style='font-weight: bold; '>Katılma</span>
+</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Ralph_Papadopoulos">Ralph Papadopoulos</a></td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Nakajima_Natsuko"><span>Nakajima Natsuko</span></a></td>
+</tr>
+<tr>
+<td>
+<b>14/06/2022</b> 19:10
+</td>
+<td>
+<span style='font-weight: bold; '>Katılma</span>
+</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Barry_Gibson">Barry Gibson</a></td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Richard_Colin"><span>Richard Colin</span></a></td>
+</tr>
+<tr>
+<td>
+<b>14/06/2022</b> 19:10
+</td>
+<td>
+<span style='font-weight: bold; '>Katılma</span>
+</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Barry_Gibson">Barry Gibson</a></td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Jonah_Hensley"><span>Jonah Hensley</span></a></td>
+</tr>
+<tr>
+<td>
+<b>14/06/2022</b> 19:10
+</td>
+<td>
+<span style='font-weight: bold; '>Katılma</span>
+</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Barry_Gibson">Barry Gibson</a></td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Oystein_Broddesson"><span>Oystein Broddesson</span></a></td>
+</tr>
+<tr>
+<td>
+<b>14/06/2022</b> 19:10
+</td>
+<td>
+<span style='font-weight: bold; '>Katılma</span>
+</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Ralph_Papadopoulos">Ralph Papadopoulos</a></td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Rui_Lunette"><span>Rui Lunette</span></a></td>
+</tr>
+<tr>
+<td>
+<b>14/06/2022</b> 19:09
+</td>
+<td>
+<span style='font-weight: bold; '>Katılma</span>
+</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Barry_Gibson">Barry Gibson</a></td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Chris_Brewster"><span>Chris Brewster</span></a></td>
+</tr>
+<tr>
+<td>
+<b>14/06/2022</b> 19:09
+</td>
+<td>
+<span style='font-weight: bold; '>Katılma</span>
+</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Ralph_Papadopoulos">Ralph Papadopoulos</a></td>
+ <td><a href="https://www.rina-roleplay.com/forum/karakter/Gwen_Haven"><span>Gwen Haven</span></a></td>
+</tr>
+<tr>
+<td>
+<b>14/06/2022</b> 19:09
+</td>
+<td>
+<span style='font-weight: bold; '>Katılma</span>
+</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Barry_Gibson">Barry Gibson</a></td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Wendell_Buckner"><span>Wendell Buckner</span></a></td>
+</tr>
+<tr>
+<td>
+<b>14/06/2022</b> 19:09
+</td>
+<td>
+<span style='font-weight: bold; '>Katılma</span>
+</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Barry_Gibson">Barry Gibson</a></td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Lonnie_Harrington"><span>Lonnie Harrington</span></a></td>
+</tr>
+<tr>
+<td>
+<b>14/06/2022</b> 19:09
+</td>
+<td>
+<span style='font-weight: bold; '>Katılma</span>
+</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Ralph_Papadopoulos">Ralph Papadopoulos</a></td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Melissa_Fidler"><span>Melissa Fidler</span></a></td>
+</tr>
+<tr>
+<td>
+<b>14/06/2022</b> 19:09
+</td>
+<td>
+<span style='font-weight: bold; '>Katılma</span>
+</td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Ralph_Papadopoulos">Ralph Papadopoulos</a></td>
+<td><a href="https://www.rina-roleplay.com/forum/karakter/Almira_Reither"><span>Almira Reither</span></a></td>
+</tr>
+</tbody>
+</table>
+<div style="background-color: #80808030; padding: 5px;">
+Son <b>20</b> kayıt listelenir.
+</div>
+</div>
+<div class="tab-pane fadeIn animated" id="gorevler">
+<table class="table table-bordered" style="width:100%; margin-bottom: 10px;">
+<tbody>
+<tr>
+<td>Sağlık için yürüyüş</td>
+<td>23 Nisan 2022, 02:13</td>
+<td>96 saat</td>
+<td>Jaec</td>
+<td>Şöhret Yok</td>
+<td>
+<span class='badge' style='background-color: green;'>Tamamlandı</span>
+<div style="float: right;">
+<span class="gorevtoolhover" onclick="if (!window.__cfRLUnblockHandlers) return false; gorevduzenle(`56`, `Sağlık için yürüyüş`,  `LS Fire and Medical Departmanı, şehir dışında sağlık için bir yürüyüş düzenleyecek. Eskortluk edin, güvenliği sağlayın.`,  `96`,  `1`,  `0`)" data-cf-modified-d4c86bc3970b2522d787ee7f-=""><i class="fas fa-edit"></i></span>
+<span class="gorevtoolhover" onclick="if (!window.__cfRLUnblockHandlers) return false; gorevsil(`56`, `fd38f5c2f00c3ed4f2745a9c2d66a94d`)" data-cf-modified-d4c86bc3970b2522d787ee7f-=""><i class="fas fa-trash-alt"></i></span>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+LS Fire and Medical Departmanı, şehir dışında sağlık için bir yürüyüş düzenleyecek. Eskortluk edin, güvenliği sağlayın.
+</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered" style="width:100%; margin-bottom: 10px;">
+<tbody>
+<tr>
+<td>Hava araçları ve onların verebileceği zararlar</td>
+<td>12 Mart 2022, 21:07</td>
+<td>96 saat</td>
+<td>Jaec</td>
+<td>Şöhret Yok</td>
+<td>
+<span class='badge' style='background-color: green;'>Tamamlandı</span>
+<div style="float: right;">
+<span class="gorevtoolhover" onclick="if (!window.__cfRLUnblockHandlers) return false; gorevduzenle(`45`, `Hava araçları ve onların verebileceği zararlar`,  `Hava araçlarını halka tanıtın ve araçlara karşı nasıl davranılması gerektiğini anlatın. Ayrıca yanlış hareketlerin nasıl zarar verebileceğini anlatın.`,  `96`,  `1`,  `0`)" data-cf-modified-d4c86bc3970b2522d787ee7f-=""><i class="fas fa-edit"></i></span>
+<span class="gorevtoolhover" onclick="if (!window.__cfRLUnblockHandlers) return false; gorevsil(`45`, `fd38f5c2f00c3ed4f2745a9c2d66a94d`)" data-cf-modified-d4c86bc3970b2522d787ee7f-=""><i class="fas fa-trash-alt"></i></span>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+Hava araçlarını halka tanıtın ve araçlara karşı nasıl davranılması gerektiğini anlatın. Ayrıca yanlış hareketlerin nasıl zarar verebileceğini anlatın.
+</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered" style="width:100%; margin-bottom: 10px;">
+<tbody>
+<tr>
+<td>Bizim gerçek dostlarımız</td>
+<td>09 Şubat 2022, 05:32</td>
+<td>72 saat</td>
+<td>Jaec</td>
+<td>Şöhret Yok</td>
+<td>
+<span class='badge' style='background-color: green;'>Tamamlandı</span>
+<div style="float: right;">
+<span class="gorevtoolhover" onclick="if (!window.__cfRLUnblockHandlers) return false; gorevduzenle(`42`, `Bizim gerçek dostlarımız`,  `Departman içerisindeki hayvanlar konusunda halkı bilgilendirin, ayrıca onlara bir gösteri düzenleyin.`,  `72`,  `1`,  `0`)" data-cf-modified-d4c86bc3970b2522d787ee7f-=""><i class="fas fa-edit"></i></span>
+<span class="gorevtoolhover" onclick="if (!window.__cfRLUnblockHandlers) return false; gorevsil(`42`, `fd38f5c2f00c3ed4f2745a9c2d66a94d`)" data-cf-modified-d4c86bc3970b2522d787ee7f-=""><i class="fas fa-trash-alt"></i></span>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+Departman içerisindeki hayvanlar konusunda halkı bilgilendirin, ayrıca onlara bir gösteri düzenleyin.
+</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered" style="width:100%; margin-bottom: 10px;">
+<tbody>
+<tr>
+<td>Yarışçı tutkunları</td>
+<td>24 Ocak 2022, 22:11</td>
+<td>72 saat</td>
+<td>Jaec</td>
+<td>Şöhret Yok</td>
+<td>
+<span class='badge' style='background-color: green;'>Tamamlandı</span>
+<div style="float: right;">
+<span class="gorevtoolhover" onclick="if (!window.__cfRLUnblockHandlers) return false; gorevduzenle(`27`, `Yarışçı tutkunları`,  `26 Ocak akşam saatlerinde yasaklı yarış yapılacağını duyuyorsunuz, bir kontrol iyi gider. (20:00)`,  `72`,  `1`,  `0`)" data-cf-modified-d4c86bc3970b2522d787ee7f-=""><i class="fas fa-edit"></i></span>
+<span class="gorevtoolhover" onclick="if (!window.__cfRLUnblockHandlers) return false; gorevsil(`27`, `fd38f5c2f00c3ed4f2745a9c2d66a94d`)" data-cf-modified-d4c86bc3970b2522d787ee7f-=""><i class="fas fa-trash-alt"></i></span>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+26 Ocak akşam saatlerinde yasaklı yarış yapılacağını duyuyorsunuz, bir kontrol iyi gider. (20:00)
+</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered" style="width:100%; margin-bottom: 10px;">
+<tbody>
+<tr>
+<td>Uyuşturucu konusunda genel araştırma</td>
+<td>13 Ocak 2022, 01:03</td>
+<td>72 saat</td>
+<td>Jaec</td>
+<td>Şöhret Yok</td>
+<td>
+<span class='badge' style='background-color: green;'>Tamamlandı</span>
+<div style="float: right;">
+<span class="gorevtoolhover" onclick="if (!window.__cfRLUnblockHandlers) return false; gorevduzenle(`15`, `Uyuşturucu konusunda genel araştırma`,  `Kasabalarda uyuşturucu satan ve kullanan insanlar görülüyormuş, bunlar hakkında halkı sorgulayın ve bilgi almaya çalışın.`,  `72`,  `1`,  `0`)" data-cf-modified-d4c86bc3970b2522d787ee7f-=""><i class="fas fa-edit"></i></span>
+<span class="gorevtoolhover" onclick="if (!window.__cfRLUnblockHandlers) return false; gorevsil(`15`, `fd38f5c2f00c3ed4f2745a9c2d66a94d`)" data-cf-modified-d4c86bc3970b2522d787ee7f-=""><i class="fas fa-trash-alt"></i></span>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+Kasabalarda uyuşturucu satan ve kullanan insanlar görülüyormuş, bunlar hakkında halkı sorgulayın ve bilgi almaya çalışın.
+</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered" style="width:100%; margin-bottom: 10px;">
+<tbody>
+<tr>
+<td>Uyuşturucu ile Mücadele Hakkında Halkı Bilgilendirme</td>
+<td>07 Ocak 2022, 00:52</td>
+<td>48 saat</td>
+<td>Hera</td>
+<td>Şöhret Yok</td>
+<td>
+<span class='badge' style='background-color: green;'>Tamamlandı</span>
+<div style="float: right;">
+<span class="gorevtoolhover" onclick="if (!window.__cfRLUnblockHandlers) return false; gorevduzenle(`9`, `Uyuşturucu ile Mücadele Hakkında Halkı Bilgilendirme`,  `Uyuşturucu ile mücadele kapsamında halkı bilgilendirecek roller.`,  `48`,  `1`,  `0`)" data-cf-modified-d4c86bc3970b2522d787ee7f-=""><i class="fas fa-edit"></i></span>
+<span class="gorevtoolhover" onclick="if (!window.__cfRLUnblockHandlers) return false; gorevsil(`9`, `fd38f5c2f00c3ed4f2745a9c2d66a94d`)" data-cf-modified-d4c86bc3970b2522d787ee7f-=""><i class="fas fa-trash-alt"></i></span>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+Uyuşturucu ile mücadele kapsamında halkı bilgilendirecek roller.
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript">
+
+	$(document).ready(function(){
+	 	document.title = "";
+	});
+
+	var toplamrank = 20;
+
+	$( document ).ready(function() {
+		$(function () {
+		  $('[data-toggle="tooltip"]').tooltip()
+		})
+
+
+		for (var i = 1; i < toplamrank ; i++){
+			if ($("#ranktoplami_" + i).val() == 0)
+			{
+				$("[data-rankalani="+i+"]").remove();
+			}
+		}
+
+		yap();
+	});
+
+	function yap()
+	{
+		for (var i = 1; i < toplamrank ; i++){
+			if ($("#ranktoplami_"+i).val() != undefined && $("#ranktoplami_"+i).val() != 0)
+			{
+				$("[data-rankcl="+i+"]").css('margin-bottom', 0);
+				break;
+			}
+		}
+	}
+
+	function post(path, parameters) {
+		var form = $("<form></form>");
+
+		form.attr("method", "post");
+		form.attr("action", path);
+
+		$.each(parameters, function(key, value) {
+			var field = $("<input></input>");
+
+			field.attr("type", "hidden");
+			field.attr("name", key);
+			field.attr("value", value);
+
+			form.append(field);
+		});
+
+		// The form needs to be a part of the document in
+		// order for us to be able to submit it.
+		$(document.body).append(form);
+		form.submit();
+	}
+
+
+	function kapakfotografikaydet()
+	{
+		post(window.location.href, {kapakurl: $("#kapakurl").val()});
+	}
+
+	function tanitimlinkikaydet()
+	{
+		post(window.location.href, {tanitimurl: $("#tanitimurl").val()});
+	}
+
+	var guncellememodu = 0;
+
+	function gorevduzenle(id, title, description, hours, status, rewardfamous)
+  {
+    $( "#mission_id" ).prop( "disabled", false );
+
+    $( "#mission_id" ).val(`${id}`);
+    $( "#mission_title" ).val(`${title}`);
+    $( "#mission_description" ).val(`${description}`);
+		$( "#mission_hours").val(`${hours}`);
+		$( "#mission_rewardfamous").val(`${rewardfamous}`);
+		$( "#mission_status").val(`${status}`).change();
+		$( "#mission_status" ).prop( "disabled", false );
+
+    $( "#mission_new" ).prop('checked', false);
+    guncellememodu = 1;
+  }
+
+	function gorevmoddegis()
+  {
+    $( "#mission_id" ).prop( "value", " " );
+
+    if (guncellememodu == 0)
+    {
+      guncellememodu = 1;
+      $( "#mission_id" ).prop( "disabled", false );
+			$( "#mission_status" ).prop( "disabled", false );
+    }
+    else
+    {
+      guncellememodu = 0;
+      $( "#mission_id" ).prop( "disabled", true );
+			$( "#mission_status" ).prop( "disabled", true );
+    }
+  }
+
+	function gorevsil(_missionid, _formtoken)
+	{
+		post(window.location.href, { deletedmissionid: _missionid, formtoken: _formtoken });
+	}
+
+	/*
+	if(window.location.hash) {
+		console.log( window.location.hash );
+	} else {
+		// Fragment doesn't exist
+	}
+	*/
+
+	$('.nav-tabs li a').click(function()	{
+		window.location.hash = this.href.split("#")[1];
+	});
+
+	$(document).ready(function() {
+		 var hash = window.location.hash;
+		 if (hash) {
+			 console.log(hash);
+			  $('a[href="'+hash+'"]').click();
+		 }
+	});
+</script>
+</div>
+</div>
+</div>
+<div id="footer">
+<ul class="reset">
+<li class="copyright">
+<span class="smalltext" style="display: inline; visibility: visible; font-family: Verdana, Arial, sans-serif;"><a href="https://www.rina-roleplay.com/forum/index.php?action=credits" title="Simple Machines Forum" target="_blank" class="new_win">SMF 2.0.19</a> |
+<a href="https://www.simplemachines.org/about/smf/license.php" title="License" target="_blank" class="new_win">SMF &copy; 2020</a>, <a href="https://www.simplemachines.org" title="Simple Machines" target="_blank" class="new_win">Simple Machines</a>
+</span></li>
+<li class="copyright"><strong></strong> Design By <a href="#" target="_blank">RN-RP</a></li>
+<li><a href="https://www.rina-roleplay.com/forum/agreement" target="_blank">Kullanıcı Sözleşmelerimiz</a></li><br>
+<li><a id="button_xhtml" href="https://validator.w3.org/check/referer" target="_blank" class="new_win" title="XHTML 1.0 Uyumlu!"><span>XHTML</span></a></li>
+<li><a id="button_rss" href="https://www.rina-roleplay.com/forum/index.php?action=.xml;type=rss" class="new_win"><span>RSS</span></a></li>
+</ul>
+<div class="row">
+<div class="col-md-12">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8279012001768989" crossorigin="anonymous" type="d4c86bc3970b2522d787ee7f-text/javascript"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8279012001768989" data-ad-slot="7052089081" data-ad-format="auto"></ins>
+<script type="d4c86bc3970b2522d787ee7f-text/javascript">
+						     (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+</div>
+</div>
+</div>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="d4c86bc3970b2522d787ee7f-|49" defer=""></script></body>
+</html>
